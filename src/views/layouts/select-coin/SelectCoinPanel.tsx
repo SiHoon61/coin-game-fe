@@ -1,6 +1,6 @@
 import { css } from '@emotion/react';
 import { useState, useEffect } from 'react';
-import { Progress, Button, Checkbox } from 'antd';
+import { Progress, Button } from 'antd';
 import { BtcKRW } from 'views/layouts/coin-chart/BtcKRW';
 import { colorLight } from 'styles/colors';
 
